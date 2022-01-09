@@ -1,0 +1,10 @@
+{'coord': {'lon': 77.5499, 'lat': 8.0793
+    }, 'weather': [
+        {'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'
+        }
+    ], 'base': 'stations', 'main': {'temp': 77.58, 'feels_like': 78.69, 'temp_min': 77.58, 'temp_max': 77.58, 'pressure': 1013, 'humidity': 78, 'sea_level': 1013, 'grnd_level': 1011
+    }, 'visibility': 10000, 'wind': {'speed': 11.92, 'deg': 32, 'gust': 16.2
+    }, 'clouds': {'all': 86
+    }, 'dt': 1641751183, 'sys': {'country': 'IN', 'sunrise': 1641690370, 'sunset': 1641732416
+    }, 'timezone': 19800, 'id': 1262204, 'name': 'Kanyakumari', 'cod': 200
+}
